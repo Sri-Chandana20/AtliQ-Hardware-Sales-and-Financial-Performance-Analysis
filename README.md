@@ -28,11 +28,9 @@ Management requires a centralized reporting solution to track sales performance,
 
 - Tools & Technologies Used 
 
-- Key Insights
+- Business Questions Answered
   
 - Recommendations
-  
-- Business Questions
 
 - Acknowledgments
 
@@ -160,7 +158,7 @@ DIVIDE([NetSales21], [NetSales20], 0)
   
 ---
 
-### Key Insights
+### Business Questions Answered
 
 
 
