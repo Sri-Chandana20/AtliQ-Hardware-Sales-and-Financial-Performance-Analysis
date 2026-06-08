@@ -160,6 +160,92 @@ DIVIDE([NetSales21], [NetSales20], 0)
 
 ### Business Questions Answered
 
+**1. Which customers generated the highest revenue in 2021?**
+
+The top revenue-generating customers in 2021 included:
+
+- Amazon – 82.1M
+
+- AtliQ Exclusive – 61.1M
+
+- Atliq e Store – 53.0M
+
+- Sage – 20.7M
+
+- Flipkart – 19.3M
+
+The highest revenue contributors in 2021 included company-owned sales channels (AtliQ Exclusive and Atliq e Store) as well as external retail partners such as Amazon, Sage, and Flipkart.
+
+---
+
+**2. Which customers showed the highest growth between 2020 and 2021?**
+
+Several customers demonstrated exceptional year-over-year growth. Notable examples include:
+
+- Nova – 2664.9%
+  
+- Integration Stores – 887.2%
+
+- Chiptec - 722.0%
+
+- Electricalsquipo Stores – 535.3%
+
+- Logic Stores – 515.2%
+
+These customers experienced rapid sales expansion compared to the previous year.
+
+---
+
+**3. Which markets generated the highest revenue in 2021?**
+
+The highest-performing markets in 2021 were:
+
+- India – 161.3M
+
+- USA – 87.8M
+
+- South Korea – 49.0M
+
+- Canada – 35.1M
+
+- United Kingdom – 34.2M
+
+These markets represented the largest share of overall revenue.
+
+---
+
+**4. Did the company achieve its 2021 sales targets across markets?**
+
+No. Overall sales were 54.9M below target, resulting in a -9.2% variance against the 2021 target. Every market reported negative variance against target, indicating opportunities for performance improvement.
+
+---
+
+**5. Which markets were closest to achieving their 2021 targets?**
+
+The markets with the smallest negative variance were:
+
+- Japan (-4.1%)
+
+- Portugal (-4.3%)
+
+- India (-5.9%)
+
+These markets performed relatively better against their assigned targets compared to other regions.
+
+---
+
+### Recommendations
+
+- Company-owned channels such as AtliQ Exclusive and Atliq e Store, along with major external partners such as Amazon and Flipkart, contributed significantly to 2021 revenue. The business can continue investing in these channels and partnerships to support future growth.
+
+- Although overall sales grew substantially in 2021, the company missed its overall target by 9.2%. Markets with larger negative variances should be reviewed to understand issues related to sales execution, market demand, competition, or target-setting assumptions.
+
+---
+
+### Acknowledgments
+
+Special thanks to **Dhaval Patel Sir, Hemanand Vadivel Sir, and Codebasics** for providing the dataset used in this analysis project.
+The dataset enabled hands-on practice in data transformation, data modeling, and Sales & Finance analysis.
 
 
 
