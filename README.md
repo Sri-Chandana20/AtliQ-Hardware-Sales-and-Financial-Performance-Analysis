@@ -129,7 +129,7 @@ SUM(ns_targets_2021[ns_target])
 ```
 
 ```DAX
-% =
+Variance % =
 DIVIDE([2021 - Target], [NetSales21], 0)
 ```
 
@@ -139,6 +139,28 @@ DIVIDE([2021 - Target], [NetSales21], 0)
 21 vs 20 =
 DIVIDE([NetSales21], [NetSales20], 0)
 ```
+
+---
+
+### Tools & Technologies Used
+
+- Microsoft Excel
+  
+- Power Query (Data Extraction, Transformation & Loading - ETL)
+  
+- Power Pivot (Data Modeling & Analysis)
+  
+- DAX (Data Analysis Expressions)
+  
+- Star Schema Data Modeling
+  
+- Pivot Tables & Financial Reporting
+  
+- CSV Files (Data Source)
+  
+---
+
+### Key Insights
 
 
 
