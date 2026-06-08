@@ -67,6 +67,81 @@ To ensure data quality and support accurate analysis, the following data prepara
 
 ### Data Modeling
 
+- Designed a **star schema** with fact_sales_monthly and ns_targets_2021 as the central fact tables connected to dimension tables such as customer, market, product, and date through **one-to-many** relationships.
+
+- All **relationships** were configured as **active** to ensure accurate aggregation across metrics.
+
+---
+
+### DAX Measures
+
+### Base Measures
+
+```DAX
+Net Sales =
+SUM(fact_sales_monthly[net_sales_amount])
+```
+
+```DAX
+COGS =
+SUM(fact_sales_monthly[total_COGS])
+```
+
+```DAX
+Gross Margin =
+[Net Sales] - [COGS]
+```
+
+```DAX
+GM% =
+DIVIDE([Gross Margin], [Net Sales], 0)
+```
+
+### Year-wise Net Sales Measures
+
+```DAX
+NetSales19 =
+CALCULATE([Net Sales], dim_date[FY] = "2019")
+```
+
+```DAX
+NetSales20 =
+CALCULATE([Net Sales], dim_date[FY] = "2020")
+```
+
+```DAX
+NetSales21 =
+CALCULATE([Net Sales], dim_date[FY] = "2021")
+```
+
+### Target Measure
+
+```DAX
+Target21 =
+SUM(ns_targets_2021[ns_target])
+```
+
+### Variance Analysis Measures
+
+```DAX
+2021 - Target =
+[NetSales21] - [Target21]
+```
+
+```DAX
+% =
+DIVIDE([2021 - Target], [NetSales21], 0)
+```
+
+### Year-over-Year Growth Measure
+
+```DAX
+21 vs 20 =
+DIVIDE([NetSales21], [NetSales20], 0)
+```
+
+
+
 
 
 
