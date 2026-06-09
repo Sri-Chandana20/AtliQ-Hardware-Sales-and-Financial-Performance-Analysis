@@ -2,7 +2,7 @@
   <img src="atliq_logo.png" width="140"/>
 </p>
 
-<h1 align="center"> AtliQ Hardware Business Performance Analysis </h1>
+<h1 align="center"> AtliQ Hardware Sales & Financial Performance Analysis </h1>
 
 ### Overview
 This project analyzes the sales and financial performance of AtliQ Hardware using Microsoft Excel. The objective is to provide a consolidated view of business performance by evaluating customer sales, market performance against targets, and profitability trends across fiscal years and quarters.
@@ -231,6 +231,28 @@ The markets with the smallest negative variance were:
 - India (-5.9%)
 
 These markets performed relatively better against their assigned targets compared to other regions.
+
+---
+
+**6. How has profitability changed across fiscal years?**
+
+Although Gross Margin increased significantly, Gross Margin Percentage declined from **41.4% in FY2019 to 36.4% in FY2021.** This suggests that revenue grew faster than profitability and may warrant further analysis of cost structures.
+
+---
+
+**7. Which quarters generated the highest revenue & profitability in FY2021?**
+
+In FY2021, Q1 generated the highest revenue (173.8M), followed by Q2 (164.7M). Revenue gradually declined during Q3 and Q4.
+
+Also, Q1 generated the highest Gross Margin (63.3M), followed by Q2 (60.0M). 
+
+This indicates that the first half of FY2021 contributed most significantly to revenue & profitability.
+
+---
+
+**8. How consistent was Gross Margin % across quarters?**
+
+Gross Margin % remained relatively stable within each fiscal year. In FY2021, GM% was approximately 36.4% across all four quarters, indicating consistent profitability performance throughout the year.
 
 ---
 
