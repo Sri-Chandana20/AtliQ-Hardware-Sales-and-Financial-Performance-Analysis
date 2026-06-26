@@ -216,7 +216,7 @@ These markets represented the largest share of overall revenue.
 
 **4. Did the company achieve its 2021 sales targets across markets?**
 
-No. Overall sales were 54.9M below target, resulting in a -9.2% variance against the 2021 target. Every market reported negative variance against target, indicating opportunities for performance improvement.
+No. Overall sales were 54.9M below target, resulting in a -8.4% variance against the 2021 target. Every market reported negative variance against target, indicating opportunities for performance improvement.
 
 ---
 
@@ -260,7 +260,7 @@ Gross Margin % remained relatively stable within each fiscal year. In FY2021, GM
 
 - Company-owned channels such as AtliQ Exclusive and Atliq e Store, along with major external partners such as Amazon and Flipkart, contributed significantly to 2021 revenue. The business can continue investing in these channels and partnerships to support future growth.
 
-- Although overall sales grew substantially in 2021, the company missed its overall target by 9.2%. Markets with larger negative variances should be reviewed to understand issues related to sales execution, market demand, competition, or target-setting assumptions.
+- Although overall sales grew substantially in 2021, the company missed its overall target by 8.4%. Markets with larger negative variances should be reviewed to understand issues related to sales execution, market demand, competition, or target-setting assumptions.
 
 ---
 
