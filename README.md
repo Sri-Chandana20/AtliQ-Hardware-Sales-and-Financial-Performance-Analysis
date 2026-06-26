@@ -128,7 +128,7 @@ SUM(ns_targets_2021[ns_target])
 
 ```DAX
 Variance % =
-DIVIDE([2021 - Target], [NetSales21], 0)
+DIVIDE([2021 - Target], [Target], 0)
 ```
 
 ### Year-over-Year Growth Measure
