@@ -2,7 +2,7 @@
   <img src="atliq_logo.png" width="140"/>
 </p>
 
-<h1 align="center"> AtliQ Hardware Sales & Financial Performance Analysis </h1>
+<h1 align="center"> Sales & Financial Performance Analysis </h1>
 
 ### Overview
 This project analyzes the sales and financial performance of AtliQ Hardware using Microsoft Excel. The objective is to provide a consolidated view of business performance by evaluating customer sales, market performance against targets, and profitability trends across fiscal years and quarters.
